@@ -1,4 +1,4 @@
-# Free Online QR Code Generator:
+# Free Online QR Code Generator
 A simple and responsive web application that generates QR codes for website URLs. Users can customize the QR code size and download the generated image.
 
 ## Features:
