@@ -22,7 +22,7 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/your-username/qr-code-generator.git
 
-#Usage:
+##Usage:
 1. Enter the URL you want to generate a QR code for.
 2. Select the size of the QR code from the dropdown menu.
 3. Click the Generate QR Code button.
