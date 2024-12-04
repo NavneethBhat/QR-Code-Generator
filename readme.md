@@ -1,6 +1,8 @@
 # Free Online QR Code Generator
 A simple and responsive web application that generates QR codes for website URLs. Users can customize the QR code size and download the generated image.
 
+Quick Launch: [qr-code-generator]https://qrcode-generatorrrr.netlify.app/
+
 ## Features:
 - Generate QR codes for any website URL.
 - Responsive design with a clean user interface.
